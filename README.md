@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/kwonmoon/news-homepage-main)
-- Live Site URL: [Netlify](https://melodic-daffodil-8c41f2.netlify.app/)
+- Live Site URL: [Netlify](https://endearing-crepe-2117ef.netlify.app/)
 
 ## My process
 
